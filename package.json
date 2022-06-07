@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "require-path": "^0.3.0",
+    "solc": "^0.4.25",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "web3": "^1.2.1"
+  },
+  "devDependencies": {
+    "@testing-library/jest-dom": "^5.16.4",
+    "chai": "^4.3.6",
+    "jest": "^28.1.0",
+    "mocha": "^10.0.0"
+  }
+}
